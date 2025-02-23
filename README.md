@@ -34,19 +34,19 @@ Welcome to my GitHub profile! I'm a passionate and motivated Computer Science st
 
 ## 🌟 Featured Projects
 
-### 🏡 [WebHousePrediction](https://github.com/SilvaDenisVictor/WebHousePrediction)
+### 🏡 [WebHousePrediction](https://github.com/SilvaDenisVictor/Web_House_Prediction)
 A project leveraging Airflow and Docker to:
 - Automate data scraping from websites.
 - Store data in a PostgreSQL database.
 - Train a regression model for house price prediction.
 - Create an API for predictions using FastAPI.
 
-### 🔄 [ETL Pipeline](https://github.com/SilvaDenisVictor/ETL-Pipeline)
+### 🔄 [ETL Pipeline](https://github.com/SilvaDenisVictor/ETL)
 Built with DBT, PostgreSQL, and Airflow:
 - Created a simple ETL process from FreeCodeCamp's Data Engineering course.
 - Transformed raw data into a clean, structured format.
 
-### 📊 [DBT Project](https://github.com/SilvaDenisVictor/DBT-Project)
+### 📊 [DBT Project](https://github.com/SilvaDenisVictor/dbt_project)
 - Connected DBT to Snowflake for Data Warehouse management.
 - Created remote tables and performed data transformations.
 
